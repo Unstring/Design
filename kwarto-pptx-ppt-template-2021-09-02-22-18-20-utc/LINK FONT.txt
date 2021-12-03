@@ -1,0 +1,2 @@
+OPEN SANS   = - https://fonts.google.com/specimen/Open+Sans
+MONTSERRAT  = - https://fonts.google.com/specimen/Montserrat
